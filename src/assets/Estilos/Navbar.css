@@ -1,0 +1,20 @@
+.navbar {
+  height: 60px;
+  width: calc(100% - 240px); /* Ajusta el ancho según el sidebar */
+  margin-left: 20px; /* Compensa el ancho del sidebar */
+  background-color: #2c3e50;
+  color: #ecf0f1;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
