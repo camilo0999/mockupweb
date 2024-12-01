@@ -1,0 +1,74 @@
+[
+    {
+        "id": 4,
+        "titulo": "Proyecto de alimentación para adolescentes",
+        "fechaInicio": "01/01/2023",
+        "fechaFin": "01/01/2023",
+        "personasAlcanzadas": 42000,
+        "imagen": "https://www.familiaysalud.es/sites/default/files/dieta_adolescente.jpg",
+        "imagenes": [
+            "https://www.familiaysalud.es/sites/default/files/dieta_adolescente.jpg",
+            "https://imgs.search.brave.com/PXhDahFe-OpCAV6EuUErxX8Eh49xQ-X7qqE6Lk7kOv4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTcy/OTExODM2L2VzL2Zv/dG8vZ3J1cG8tZGUt/aiVDMyVCM3ZlbmVz/LXF1ZS1zZS1kaXZp/ZXJ0ZW4tZW4tdW4t/cmVzdGF1cmFudGUu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWJVNjRjaFhIUi0t/ZlJQallIc29mQzhV/Vk9DYVpzckY4ejdI/SXd6NDAzQjA9",
+            "https://imgs.search.brave.com/MLdM9UveNTSrLlH4ayRW-x7n7xa2gaD1PccpcilWL3s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM0/NTQ4NzgzNC9lcy9m/b3RvL2FtaWdvcy12/aWVuZG8tbGEtdGVs/ZXZpc2klQzMlQjNu/LXktY29taWVuZG8t/cGFsb21pdGFzLWRl/LW1hJUMzJUFEei1l/bi1jYXNhLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1XWVVz/RjdZZEMxVFVwOE1f/cmxpNElIb3V1RFFZ/cm9LYXc2Qk1uV0FK/ZkNFPQ"
+        ],
+        "descripcion": "Este proyecto se enfoca en proporcionar alimentación balanceada para adolescentes en situación de vulnerabilidad. A través de comedores escolares y comunitarios, se asegura que los jóvenes reciban comidas nutritivas que mejoren su desempeño académico y físico. Además, se ofrecen talleres sobre nutrición y cocina saludable, fomentando hábitos alimenticios positivos en esta etapa crucial de desarrollo.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Comida", "Transporte", "Operaciones", "Publicidad"],
+                "data": [55, 20, 20, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Enero", "Febrero", "Marzo", "Abril"],
+                "data": [15, 35, 65, 100]
+            }
+        }
+    },
+    {
+        "id": 5,
+        "titulo": "Proyecto de educación para adolescentes",
+        "fechaInicio": "15/03/2023",
+        "fechaFin": "15/12/2023",
+        "personasAlcanzadas": 25000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTd_YCO741JkgB1tymhfgbzXzkPIbhwe34mQ&s",
+        "imagenes": [
+            "https://imgs.search.brave.com/sample-image4.jpg",
+            "https://imgs.search.brave.com/sample-image5.jpg",
+            "https://imgs.search.brave.com/sample-image6.jpg"
+        ],
+        "descripcion": "Este proyecto tiene como objetivo reducir la deserción escolar entre adolescentes en comunidades desfavorecidas. Se han implementado programas de tutorías, acceso a tecnología educativa y distribución de materiales escolares. Además, se organizan charlas motivacionales y programas extracurriculares para inspirar a los jóvenes a alcanzar su potencial académico y personal.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Material Escolar", "Capacitaciones", "Infraestructura", "Publicidad"],
+                "data": [45, 25, 20, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [5, 15, 25, 35, 50, 60, 70, 80, 90, 100]
+            }
+        }
+    },
+    {
+        "id": 6,
+        "titulo": "Proyecto de salud para adolescentes",
+        "fechaInicio": "10/05/2023",
+        "fechaFin": "10/11/2023",
+        "personasAlcanzadas": 35000,
+        "imagen": "https://imgs.search.brave.com/fUicBGq52mse07DdJEFisbQK52mb63Szv2Ab86wBSHQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXNp/emVyLmdsYW5hY2lv/bi5jb20vcmVzaXpl/ci92Mi9lbC1hdW1l/bnRvLXNlLWRpby1l/bi1sb3MtdWx0aW1v/cy1zaWV0ZS1hbm9z/LWhveS1KTTQ3VkZP/TjZKSFpWSDZLTU1V/V1NWWFdCRS5qcGc_/YXV0aD02NDA2OTBk/NmMzNDcwM2JmZGZh/ZmM0YWE0NzFiZGRk/Mzc0YzQ5ZDFiYjgw/ZTE1MDYyNjYwZTFi/YjJlNDg4ZTEzJndp/ZHRoPTMwMCZoZWln/aHQ9MjAwJnF1YWxp/dHk9NzAmc21hcnQ9/dHJ1ZQ",
+        "imagenes": [
+            "https://imgs.search.brave.com/sample-image7.jpg",
+            "https://imgs.search.brave.com/sample-image8.jpg",
+            "https://imgs.search.brave.com/sample-image9.jpg"
+        ],
+        "descripcion": "Este proyecto promueve el acceso a servicios médicos y educación en salud para adolescentes. Se realizan campañas de salud mental, talleres sobre prevención de enfermedades y promoción del autocuidado. También se han habilitado espacios seguros para la discusión de temas relevantes como el manejo del estrés y la prevención de adicciones, contando con el apoyo de psicólogos y trabajadores sociales.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Campañas", "Personal Médico", "Equipos Médicos", "Publicidad"],
+                "data": [50, 30, 15, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre"],
+                "data": [10, 25, 40, 55, 70, 85, 100]
+            }
+        }
+    }
+]

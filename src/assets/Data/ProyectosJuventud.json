@@ -1,0 +1,74 @@
+[
+    {
+        "id": 10,
+        "titulo": "Proyecto de empleabilidad para jóvenes",
+        "fechaInicio": "01/01/2023",
+        "fechaFin": "01/12/2023",
+        "personasAlcanzadas": 60000,
+        "imagen": "https://st.depositphotos.com/1743476/2206/i/450/depositphotos_22065439-stock-photo-african-american-woman-eating-salad.jpg",
+        "imagenes": [
+            "https://st.depositphotos.com/1743476/2206/i/450/depositphotos_22065439-stock-photo-african-american-woman-eating-salad.jpg",
+            "https://us.images.westend61.de/0001084007pw/hombre-adulto-sonriente-mirando-hacia-otro-lado-comiendo-en-una-mesa-durante-una-fiesta-en-el-jardin-MASF10098.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKI53HHsSFTqT6C6aemOVBBbKaa7WzTY9hww&s"
+        ],
+        "descripcion": "El proyecto busca capacitar a jóvenes en habilidades laborales y técnicas para mejorar su acceso al empleo. Incluye talleres de orientación profesional, programas de mentoría y alianzas con empresas para facilitar prácticas profesionales. Se fomenta el emprendimiento como una alternativa laboral, brindando recursos y asesorías para el desarrollo de planes de negocio. El impacto se mide a través de la inserción laboral y el desarrollo de competencias clave entre los participantes.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Capacitaciones", "Mentoría", "Materiales", "Publicidad"],
+                "data": [50, 25, 15, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [10, 20, 30, 40, 50, 60, 70, 80, 90, 95, 98, 100]
+            }
+        }
+    },
+    {
+        "id": 11,
+        "titulo": "Proyecto de educación para jóvenes",
+        "fechaInicio": "15/03/2023",
+        "fechaFin": "15/12/2023",
+        "personasAlcanzadas": 40000,
+        "imagen": "https://media.istockphoto.com/id/1588289977/es/foto/feliz-estudiante-negra-durante-una-clase-en-la-sala-de-conferencias-mirando-a-la-c%C3%A1mara.jpg?s=612x612&w=0&k=20&c=uYsHI--vkn0-X6gkHMTZnJMyR8396cM85GJcnsCdduU=",
+        "imagenes": [
+            "https://media.istockphoto.com/id/1588289977/es/foto/feliz-estudiante-negra-durante-una-clase-en-la-sala-de-conferencias-mirando-a-la-c%C3%A1mara.jpg?s=612x612&w=0&k=20&c=uYsHI--vkn0-X6gkHMTZnJMyR8396cM85GJcnsCdduU=",
+            "https://tododeformacion.es/wp-content/uploads/2017/11/volver-a-estudiar.jpg",
+            "https://static.vecteezy.com/system/resources/previews/026/349/732/non_2x/one-adult-man-studying-book-indoors-generated-by-ai-free-photo.jpg"
+        ],
+        "descripcion": "Este proyecto tiene como objetivo fortalecer la educación de jóvenes mediante la entrega de becas, capacitación en tecnologías y renovación de espacios educativos. Se organizan cursos intensivos en áreas como programación, diseño y marketing digital. Además, se fomenta la inclusión digital a través del acceso a herramientas tecnológicas y recursos educativos en línea. Este esfuerzo busca reducir la brecha educativa y tecnológica en comunidades vulnerables.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Becas", "Cursos", "Infraestructura", "Publicidad"],
+                "data": [40, 35, 15, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [5, 15, 30, 45, 60, 75, 85, 90, 95, 100]
+            }
+        }
+    },
+    {
+        "id": 12,
+        "titulo": "Proyecto de salud mental para jóvenes",
+        "fechaInicio": "10/05/2023",
+        "fechaFin": "10/11/2023",
+        "personasAlcanzadas": 50000,
+        "imagen": "https://medlineplus.gov/images/TeenMentalHealth_share.jpg",
+        "imagenes": [
+            "https://medlineplus.gov/images/TeenMentalHealth_share.jpg",
+            "https://www.topdoctors.es/files/Image/large/b88f8aa628d641d1fccb5a6e9e0de327.png",
+            "https://www.hacerfamilia.com/wp-content/uploads/2024/07/20141007100825.jpg"
+        ],
+        "descripcion": "El proyecto busca promover la salud mental entre los jóvenes mediante talleres de bienestar emocional, sesiones de terapia grupal y campañas de sensibilización. Se establecen líneas de apoyo psicológico gratuitas para brindar orientación en momentos de crisis. Las actividades incluyen técnicas de mindfulness, manejo del estrés y habilidades para la vida. El impacto es monitoreado a través de encuestas y testimonios que reflejan mejoras en el bienestar de los participantes.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Talleres", "Apoyo psicológico", "Campañas", "Administración"],
+                "data": [35, 40, 15, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre"],
+                "data": [10, 25, 50, 70, 85, 95, 100]
+            }
+        }
+    }
+]

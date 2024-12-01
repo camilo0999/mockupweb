@@ -1,0 +1,291 @@
+[
+    {
+        "id": 1,
+        "titulo": "Proyecto de alimentación para infancia",
+        "fechaInicio": "01/01/2023",
+        "fechaFin": "01/01/2023",
+        "personasAlcanzadas": 51000,
+        "imagen": "https://imgs.search.brave.com/f062n2lKrXcqvw8nvy5PHsY1IUWwDfVJaNLRFa7OdtQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vY2Np/ZGVudGUuY28vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTIv/cGFlLWluZGlnZW5h/LWdvYmVybmFjaW9u/LmpwZw",
+        "imagenes": [
+            "https://imgs.search.brave.com/f062n2lKrXcqvw8nvy5PHsY1IUWwDfVJaNLRFa7OdtQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vY2Np/ZGVudGUuY28vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTIv/cGFlLWluZGlnZW5h/LWdvYmVybmFjaW9u/LmpwZw",
+            "https://img.europapress.es/fotoweb/fotonoticia_20191126115552_690.jpg",
+            "https://www.conmishijos.com/uploads/alimentacion/comedorescolar.jpg"
+        ],
+        "descripcion": "Este proyecto se enfoca en proporcionar alimentos a niños en situación de vulnerabilidad, asegurando su nutrición y bienestar. A través de alianzas con organizaciones locales, hemos establecido comedores comunitarios que ofrecen comidas balanceadas diarias. Además, se realizan talleres educativos para enseñar hábitos alimenticios saludables, empoderando a las comunidades para mejorar su calidad de vida a largo plazo. La supervisión constante garantiza que los alimentos cumplan con los estándares de seguridad y calidad necesarios.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Comida", "Transporte", "Operaciones", "Publicidad"],
+                "data": [50, 20, 25, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Enero", "Febrero", "Marzo", "Abril"],
+                "data": [20, 40, 60, 100]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "titulo": "Proyecto de educación para infancia",
+        "fechaInicio": "15/03/2023",
+        "fechaFin": "15/12/2023",
+        "personasAlcanzadas": 30000,
+        "imagen": "https://imgs.search.brave.com/66EWyL7hOX_y8USFKsUzskSSg44VWNzUcPV1ruRi870/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZ3VpYWluZmFu/dGlsLmNvbS91cGxv/YWRzL2VkdWNhY2lv/bi9jb2xlZ2lvRy5q/cGc",
+        "imagenes": [
+            "https://imgs.search.brave.com/66EWyL7hOX_y8USFKsUzskSSg44VWNzUcPV1ruRi870/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZ3VpYWluZmFu/dGlsLmNvbS91cGxv/YWRzL2VkdWNhY2lv/bi9jb2xlZ2lvRy5q/cGc",
+            "https://www.rcinet.ca/es/wp-content/uploads/sites/4/2019/01/istock-ridofranz.jpg",
+            "https://www.educaciontrespuntocero.com/wp-content/uploads/2018/10/guarderia-ok.jpg"
+        ],
+        "descripcion": "Este proyecto tiene como objetivo garantizar el acceso a educación de calidad para niños en comunidades desfavorecidas. Se han distribuido materiales escolares, como libros y útiles, y se han organizado capacitaciones para maestros con el fin de mejorar las prácticas pedagógicas. También se han renovado infraestructuras escolares para crear ambientes seguros y acogedores. Se incentiva la participación de las familias en actividades comunitarias para fomentar la importancia de la educación y crear redes de apoyo entre los habitantes locales.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Material Escolar", "Capacitaciones", "Infraestructura", "Publicidad"],
+                "data": [40, 30, 20, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [5, 10, 20, 30, 40, 50, 60, 70, 80, 100]
+            }
+        }
+    },
+    {
+        "id": 3,
+        "titulo": "Proyecto de salud para infancia",
+        "fechaInicio": "10/05/2023",
+        "fechaFin": "10/11/2023",
+        "personasAlcanzadas": 45000,
+        "imagen": "https://imgs.search.brave.com/zaQMQ8y-Qkohk5ZnhRwMfqKT1a3U_6HktkhXxO8OXnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lcy5lbHRpZW1w/by5jb20vZmlsZXMv/aW1hZ2VfMTIwMF82/MDAvdXBsb2Fkcy8y/MDE4LzAzLzA5LzVh/YTMxZGI4YmUzYTUu/anBlZw",
+        "imagenes": [
+            "https://imgs.search.brave.com/zaQMQ8y-Qkohk5ZnhRwMfqKT1a3U_6HktkhXxO8OXnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lcy5lbHRpZW1w/by5jb20vZmlsZXMv/aW1hZ2VfMTIwMF82/MDAvdXBsb2Fkcy8y/MDE4LzAzLzA5LzVh/YTMxZGI4YmUzYTUu/anBlZw",
+            "https://imgs.search.brave.com/S6r67oGIuE2MpF6QuxRTt1vLXjd18PlUwEU-Zz31chI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb25z/dWx0b3JzYWx1ZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMTAvT01TLWFj/ZWxlcmEtZWwtZGlh/Z25vc3RpY28tZGUt/bGEtdmlydWVsYS1z/aW1pY2EtY29uLW51/ZXZhcy1wcnVlYmFz/LWVuLXN1LWxpc3Rh/LWRlLXVzby1lbi1l/bWVyZ2VuY2lhcy0z/NTB4MjUwLmpwZw",
+            "https://imgs.search.brave.com/Q-JWxpSlKMO5YXWaSVm_AySmEsDYVqfiFu7dTCTQl8w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG9saWNpYS5nb3Yu/Y28vc2l0ZXMvZGVm/YXVsdC9maWxlcy9k/aWVudGVzX2xlY2hl/LmpwZw"
+        ],
+        "descripcion": "Este proyecto busca mejorar la salud infantil mediante campañas de vacunación y acceso a servicios médicos. Se han desplegado unidades médicas móviles para llegar a las comunidades más remotas. Además, se han impartido talleres de educación sanitaria, orientados a la prevención de enfermedades comunes y el cuidado básico de la salud. La colaboración con profesionales médicos y voluntarios asegura que las intervenciones sean efectivas y sostenibles, impactando positivamente a miles de familias en regiones vulnerables.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Vacunas", "Equipos Médicos", "Personal", "Publicidad"],
+                "data": [60, 20, 15, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre"],
+                "data": [10, 25, 40, 55, 70, 85, 100]
+            }
+        }
+    },
+    {
+        "id": 4,
+        "titulo": "Proyecto de alimentación para adolescentes",
+        "fechaInicio": "01/01/2023",
+        "fechaFin": "01/01/2023",
+        "personasAlcanzadas": 42000,
+        "imagen": "https://www.familiaysalud.es/sites/default/files/dieta_adolescente.jpg",
+        "imagenes": [
+            "https://www.familiaysalud.es/sites/default/files/dieta_adolescente.jpg",
+            "https://imgs.search.brave.com/PXhDahFe-OpCAV6EuUErxX8Eh49xQ-X7qqE6Lk7kOv4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTcy/OTExODM2L2VzL2Zv/dG8vZ3J1cG8tZGUt/aiVDMyVCM3ZlbmVz/LXF1ZS1zZS1kaXZp/ZXJ0ZW4tZW4tdW4t/cmVzdGF1cmFudGUu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWJVNjRjaFhIUi0t/ZlJQallIc29mQzhV/Vk9DYVpzckY4ejdI/SXd6NDAzQjA9",
+            "https://imgs.search.brave.com/MLdM9UveNTSrLlH4ayRW-x7n7xa2gaD1PccpcilWL3s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM0/NTQ4NzgzNC9lcy9m/b3RvL2FtaWdvcy12/aWVuZG8tbGEtdGVs/ZXZpc2klQzMlQjNu/LXktY29taWVuZG8t/cGFsb21pdGFzLWRl/LW1hJUMzJUFEei1l/bi1jYXNhLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1XWVVz/RjdZZEMxVFVwOE1f/cmxpNElIb3V1RFFZ/cm9LYXc2Qk1uV0FK/ZkNFPQ"
+        ],
+        "descripcion": "Este proyecto se enfoca en proporcionar alimentación balanceada para adolescentes en situación de vulnerabilidad. A través de comedores escolares y comunitarios, se asegura que los jóvenes reciban comidas nutritivas que mejoren su desempeño académico y físico. Además, se ofrecen talleres sobre nutrición y cocina saludable, fomentando hábitos alimenticios positivos en esta etapa crucial de desarrollo.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Comida", "Transporte", "Operaciones", "Publicidad"],
+                "data": [55, 20, 20, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Enero", "Febrero", "Marzo", "Abril"],
+                "data": [15, 35, 65, 100]
+            }
+        }
+    },
+    {
+        "id": 5,
+        "titulo": "Proyecto de educación para adolescentes",
+        "fechaInicio": "15/03/2023",
+        "fechaFin": "15/12/2023",
+        "personasAlcanzadas": 25000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTd_YCO741JkgB1tymhfgbzXzkPIbhwe34mQ&s",
+        "imagenes": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTd_YCO741JkgB1tymhfgbzXzkPIbhwe34mQ&s",
+            "https://fundacioncarlosslim.org/wp-content/uploads/2017/04/jovenes30.jpg",
+            "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2018/01/25/5fa436b115e5d.jpeg"
+        ],
+        "descripcion": "Este proyecto tiene como objetivo reducir la deserción escolar entre adolescentes en comunidades desfavorecidas. Se han implementado programas de tutorías, acceso a tecnología educativa y distribución de materiales escolares. Además, se organizan charlas motivacionales y programas extracurriculares para inspirar a los jóvenes a alcanzar su potencial académico y personal.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Material Escolar", "Capacitaciones", "Infraestructura", "Publicidad"],
+                "data": [45, 25, 20, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [5, 15, 25, 35, 50, 60, 70, 80, 90, 100]
+            }
+        }
+    },
+    {
+        "id": 6,
+        "titulo": "Proyecto de salud para adolescentes",
+        "fechaInicio": "10/05/2023",
+        "fechaFin": "10/11/2023",
+        "personasAlcanzadas": 35000,
+        "imagen": "https://imgs.search.brave.com/fUicBGq52mse07DdJEFisbQK52mb63Szv2Ab86wBSHQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXNp/emVyLmdsYW5hY2lv/bi5jb20vcmVzaXpl/ci92Mi9lbC1hdW1l/bnRvLXNlLWRpby1l/bi1sb3MtdWx0aW1v/cy1zaWV0ZS1hbm9z/LWhveS1KTTQ3VkZP/TjZKSFpWSDZLTU1V/V1NWWFdCRS5qcGc_/YXV0aD02NDA2OTBk/NmMzNDcwM2JmZGZh/ZmM0YWE0NzFiZGRk/Mzc0YzQ5ZDFiYjgw/ZTE1MDYyNjYwZTFi/YjJlNDg4ZTEzJndp/ZHRoPTMwMCZoZWln/aHQ9MjAwJnF1YWxp/dHk9NzAmc21hcnQ9/dHJ1ZQ",
+        "imagenes": [
+            "https://imgs.search.brave.com/fUicBGq52mse07DdJEFisbQK52mb63Szv2Ab86wBSHQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXNp/emVyLmdsYW5hY2lv/bi5jb20vcmVzaXpl/ci92Mi9lbC1hdW1l/bnRvLXNlLWRpby1l/bi1sb3MtdWx0aW1v/cy1zaWV0ZS1hbm9z/LWhveS1KTTQ3VkZP/TjZKSFpWSDZLTU1V/V1NWWFdCRS5qcGc_/YXV0aD02NDA2OTBk/NmMzNDcwM2JmZGZh/ZmM0YWE0NzFiZGRk/Mzc0YzQ5ZDFiYjgw/ZTE1MDYyNjYwZTFi/YjJlNDg4ZTEzJndp/ZHRoPTMwMCZoZWln/aHQ9MjAwJnF1YWxp/dHk9NzAmc21hcnQ9/dHJ1ZQ",
+            "https://askthescientists.com/wp-content/uploads/2022/03/AdobeStock_172077935.jpeg",
+            "https://studyatgenuine.com/wp-content/uploads/2024/02/Salud-Mental-GE.webp"
+        ],
+        "descripcion": "Este proyecto promueve el acceso a servicios médicos y educación en salud para adolescentes. Se realizan campañas de salud mental, talleres sobre prevención de enfermedades y promoción del autocuidado. También se han habilitado espacios seguros para la discusión de temas relevantes como el manejo del estrés y la prevención de adicciones, contando con el apoyo de psicólogos y trabajadores sociales.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Campañas", "Personal Médico", "Equipos Médicos", "Publicidad"],
+                "data": [50, 30, 15, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre"],
+                "data": [10, 25, 40, 55, 70, 85, 100]
+            }
+        }
+    },
+    {
+        "id": 7,
+        "titulo": "Proyecto de alimentación para adultos mayores",
+        "fechaInicio": "01/01/2023",
+        "fechaFin": "01/01/2023",
+        "personasAlcanzadas": 42000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Y7pzBt8STgReagR5Zi40a7kQzme21JnfJQ&s",
+        "imagenes": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Y7pzBt8STgReagR5Zi40a7kQzme21JnfJQ&s",
+            "data:image/jpeg;base64,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",
+            "https://midiario.com/resizer/v2/I754Q3DUUJFYTB3ZHLLREHXT6I.jpg?auth=3a815a0c4e0ad48c96d8a158634e78f666cded68787c70fc292aa75b467fea97&width=1200"
+        ],
+        "descripcion": "Este proyecto busca mejorar la nutrición de adultos mayores en situación de vulnerabilidad mediante comedores comunitarios y programas de entrega de alimentos balanceados. Además, se realizan talleres de cocina saludable para fomentar buenos hábitos alimenticios que contribuyan al bienestar físico y mental de las personas mayores.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Comida", "Transporte", "Operaciones", "Publicidad"],
+                "data": [55, 20, 20, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Enero", "Febrero", "Marzo", "Abril"],
+                "data": [15, 35, 65, 100]
+            }
+        }
+    },
+    {
+        "id": 8,
+        "titulo": "Proyecto de educación y recreación para adultos mayores",
+        "fechaInicio": "15/03/2023",
+        "fechaFin": "15/12/2023",
+        "personasAlcanzadas": 25000,
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxLbz8-_56TfCZuNvzPbJVz2n-g3TJbZrSg&s",
+        "imagenes": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxLbz8-_56TfCZuNvzPbJVz2n-g3TJbZrSg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIzFF7q_bPjjR4ghPkpWdV6grKh81QsZ1Gng&s",
+            "https://www.cetys.mx/noticias/wp-content/uploads/2016/06/adulto.jpg"
+        ],
+        "descripcion": "Este proyecto promueve la inclusión educativa y recreativa de adultos mayores a través de talleres de alfabetización digital, actividades culturales y programas de aprendizaje continuo. También se organizan clubes sociales y recreativos para fortalecer el sentido de comunidad y mejorar la calidad de vida.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Material Educativo", "Capacitaciones", "Infraestructura", "Publicidad"],
+                "data": [45, 25, 20, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [5, 15, 25, 35, 50, 60, 70, 80, 90, 100]
+            }
+        }
+    },
+    {
+        "id": 9,
+        "titulo": "Proyecto de salud integral para adultos mayores",
+        "fechaInicio": "10/05/2023",
+        "fechaFin": "10/11/2023",
+        "personasAlcanzadas": 35000,
+        "imagen": "https://longevityclinic.me/wp-content/uploads/2023/05/740-senior-man-doctor-psa-testing-prostate-cancer.imgcache.rev_.web_.740.475-1.jpg",
+        "imagenes": [
+            "https://longevityclinic.me/wp-content/uploads/2023/05/740-senior-man-doctor-psa-testing-prostate-cancer.imgcache.rev_.web_.740.475-1.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupTFs7gAeqL2V4gmBGcxISmSiTyBbQ6sPGA&s",
+            "https://tecolotito.elsiglodetorreon.com.mx/i/2015/08/746393.jpeg"
+        ],
+        "descripcion": "El proyecto está enfocado en garantizar el acceso a servicios médicos y promover hábitos saludables en adultos mayores. Incluye campañas de prevención de enfermedades crónicas, talleres sobre salud mental y manejo del estrés, y actividades físicas adaptadas. Se cuenta con personal especializado como médicos y psicólogos para brindar atención integral.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Campañas", "Personal Médico", "Equipos Médicos", "Publicidad"],
+                "data": [50, 30, 15, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre"],
+                "data": [10, 25, 40, 55, 70, 85, 100]
+            }
+        }
+    }, 
+    {
+        "id": 10,
+        "titulo": "Proyecto de empleabilidad para jóvenes",
+        "fechaInicio": "01/01/2023",
+        "fechaFin": "01/12/2023",
+        "personasAlcanzadas": 60000,
+        "imagen": "https://st.depositphotos.com/1743476/2206/i/450/depositphotos_22065439-stock-photo-african-american-woman-eating-salad.jpg",
+        "imagenes": [
+            "https://st.depositphotos.com/1743476/2206/i/450/depositphotos_22065439-stock-photo-african-american-woman-eating-salad.jpg",
+            "https://us.images.westend61.de/0001084007pw/hombre-adulto-sonriente-mirando-hacia-otro-lado-comiendo-en-una-mesa-durante-una-fiesta-en-el-jardin-MASF10098.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKI53HHsSFTqT6C6aemOVBBbKaa7WzTY9hww&s"
+        ],
+        "descripcion": "El proyecto busca capacitar a jóvenes en habilidades laborales y técnicas para mejorar su acceso al empleo. Incluye talleres de orientación profesional, programas de mentoría y alianzas con empresas para facilitar prácticas profesionales. Se fomenta el emprendimiento como una alternativa laboral, brindando recursos y asesorías para el desarrollo de planes de negocio. El impacto se mide a través de la inserción laboral y el desarrollo de competencias clave entre los participantes.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Capacitaciones", "Mentoría", "Materiales", "Publicidad"],
+                "data": [50, 25, 15, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [10, 20, 30, 40, 50, 60, 70, 80, 90, 95, 98, 100]
+            }
+        }
+    },
+    {
+        "id": 11,
+        "titulo": "Proyecto de educación para jóvenes",
+        "fechaInicio": "15/03/2023",
+        "fechaFin": "15/12/2023",
+        "personasAlcanzadas": 40000,
+        "imagen": "https://media.istockphoto.com/id/1588289977/es/foto/feliz-estudiante-negra-durante-una-clase-en-la-sala-de-conferencias-mirando-a-la-c%C3%A1mara.jpg?s=612x612&w=0&k=20&c=uYsHI--vkn0-X6gkHMTZnJMyR8396cM85GJcnsCdduU=",
+        "imagenes": [
+            "https://media.istockphoto.com/id/1588289977/es/foto/feliz-estudiante-negra-durante-una-clase-en-la-sala-de-conferencias-mirando-a-la-c%C3%A1mara.jpg?s=612x612&w=0&k=20&c=uYsHI--vkn0-X6gkHMTZnJMyR8396cM85GJcnsCdduU=",
+            "https://tododeformacion.es/wp-content/uploads/2017/11/volver-a-estudiar.jpg",
+            "https://static.vecteezy.com/system/resources/previews/026/349/732/non_2x/one-adult-man-studying-book-indoors-generated-by-ai-free-photo.jpg"
+        ],
+        "descripcion": "Este proyecto tiene como objetivo fortalecer la educación de jóvenes mediante la entrega de becas, capacitación en tecnologías y renovación de espacios educativos. Se organizan cursos intensivos en áreas como programación, diseño y marketing digital. Además, se fomenta la inclusión digital a través del acceso a herramientas tecnológicas y recursos educativos en línea. Este esfuerzo busca reducir la brecha educativa y tecnológica en comunidades vulnerables.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Becas", "Cursos", "Infraestructura", "Publicidad"],
+                "data": [40, 35, 15, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [5, 15, 30, 45, 60, 75, 85, 90, 95, 100]
+            }
+        }
+    },
+    {
+        "id": 12,
+        "titulo": "Proyecto de salud mental para jóvenes",
+        "fechaInicio": "10/05/2023",
+        "fechaFin": "10/11/2023",
+        "personasAlcanzadas": 50000,
+        "imagen": "https://medlineplus.gov/images/TeenMentalHealth_share.jpg",
+        "imagenes": [
+            "https://medlineplus.gov/images/TeenMentalHealth_share.jpg",
+            "https://www.topdoctors.es/files/Image/large/b88f8aa628d641d1fccb5a6e9e0de327.png",
+            "https://www.hacerfamilia.com/wp-content/uploads/2024/07/20141007100825.jpg"
+        ],
+        "descripcion": "El proyecto busca promover la salud mental entre los jóvenes mediante talleres de bienestar emocional, sesiones de terapia grupal y campañas de sensibilización. Se establecen líneas de apoyo psicológico gratuitas para brindar orientación en momentos de crisis. Las actividades incluyen técnicas de mindfulness, manejo del estrés y habilidades para la vida. El impacto es monitoreado a través de encuestas y testimonios que reflejan mejoras en el bienestar de los participantes.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Talleres", "Apoyo psicológico", "Campañas", "Administración"],
+                "data": [35, 40, 15, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre"],
+                "data": [10, 25, 50, 70, 85, 95, 100]
+            }
+        }
+    }
+]
+

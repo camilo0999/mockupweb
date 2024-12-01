@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "titulo": "Proyecto de alimentación para infancia",
+        "fechaInicio": "01/01/2023",
+        "fechaFin": "01/01/2023",
+        "personasAlcanzadas": 51000,
+        "imagen": "https://imgs.search.brave.com/f062n2lKrXcqvw8nvy5PHsY1IUWwDfVJaNLRFa7OdtQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vY2Np/ZGVudGUuY28vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTIv/cGFlLWluZGlnZW5h/LWdvYmVybmFjaW9u/LmpwZw",
+        "imagenes": [
+            "https://imgs.search.brave.com/f062n2lKrXcqvw8nvy5PHsY1IUWwDfVJaNLRFa7OdtQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vY2Np/ZGVudGUuY28vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTIv/cGFlLWluZGlnZW5h/LWdvYmVybmFjaW9u/LmpwZw",
+            "https://img.europapress.es/fotoweb/fotonoticia_20191126115552_690.jpg",
+            "https://www.conmishijos.com/uploads/alimentacion/comedorescolar.jpg"
+        ],
+        "descripcion": "Este proyecto se enfoca en proporcionar alimentos a niños en situación de vulnerabilidad, asegurando su nutrición y bienestar. A través de alianzas con organizaciones locales, hemos establecido comedores comunitarios que ofrecen comidas balanceadas diarias. Además, se realizan talleres educativos para enseñar hábitos alimenticios saludables, empoderando a las comunidades para mejorar su calidad de vida a largo plazo. La supervisión constante garantiza que los alimentos cumplan con los estándares de seguridad y calidad necesarios.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Comida", "Transporte", "Operaciones", "Publicidad"],
+                "data": [50, 20, 25, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Enero", "Febrero", "Marzo", "Abril"],
+                "data": [20, 40, 60, 100]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "titulo": "Proyecto de educación para infancia",
+        "fechaInicio": "15/03/2023",
+        "fechaFin": "15/12/2023",
+        "personasAlcanzadas": 30000,
+        "imagen": "https://imgs.search.brave.com/66EWyL7hOX_y8USFKsUzskSSg44VWNzUcPV1ruRi870/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZ3VpYWluZmFu/dGlsLmNvbS91cGxv/YWRzL2VkdWNhY2lv/bi9jb2xlZ2lvRy5q/cGc",
+        "imagenes": [
+            "https://imgs.search.brave.com/66EWyL7hOX_y8USFKsUzskSSg44VWNzUcPV1ruRi870/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuZ3VpYWluZmFu/dGlsLmNvbS91cGxv/YWRzL2VkdWNhY2lv/bi9jb2xlZ2lvRy5q/cGc",
+            "https://www.rcinet.ca/es/wp-content/uploads/sites/4/2019/01/istock-ridofranz.jpg",
+            "https://www.educaciontrespuntocero.com/wp-content/uploads/2018/10/guarderia-ok.jpg"
+        ],
+        "descripcion": "Este proyecto tiene como objetivo garantizar el acceso a educación de calidad para niños en comunidades desfavorecidas. Se han distribuido materiales escolares, como libros y útiles, y se han organizado capacitaciones para maestros con el fin de mejorar las prácticas pedagógicas. También se han renovado infraestructuras escolares para crear ambientes seguros y acogedores. Se incentiva la participación de las familias en actividades comunitarias para fomentar la importancia de la educación y crear redes de apoyo entre los habitantes locales.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Material Escolar", "Capacitaciones", "Infraestructura", "Publicidad"],
+                "data": [40, 30, 20, 10]
+            },
+            "progresoMensual": {
+                "labels": ["Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+                "data": [5, 10, 20, 30, 40, 50, 60, 70, 80, 100]
+            }
+        }
+    },
+    {
+        "id": 3,
+        "titulo": "Proyecto de salud para infancia",
+        "fechaInicio": "10/05/2023",
+        "fechaFin": "10/11/2023",
+        "personasAlcanzadas": 45000,
+        "imagen": "https://imgs.search.brave.com/zaQMQ8y-Qkohk5ZnhRwMfqKT1a3U_6HktkhXxO8OXnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lcy5lbHRpZW1w/by5jb20vZmlsZXMv/aW1hZ2VfMTIwMF82/MDAvdXBsb2Fkcy8y/MDE4LzAzLzA5LzVh/YTMxZGI4YmUzYTUu/anBlZw",
+        "imagenes": [
+            "https://imgs.search.brave.com/zaQMQ8y-Qkohk5ZnhRwMfqKT1a3U_6HktkhXxO8OXnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZW5lcy5lbHRpZW1w/by5jb20vZmlsZXMv/aW1hZ2VfMTIwMF82/MDAvdXBsb2Fkcy8y/MDE4LzAzLzA5LzVh/YTMxZGI4YmUzYTUu/anBlZw",
+            "https://imgs.search.brave.com/S6r67oGIuE2MpF6QuxRTt1vLXjd18PlUwEU-Zz31chI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb25z/dWx0b3JzYWx1ZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjQvMTAvT01TLWFj/ZWxlcmEtZWwtZGlh/Z25vc3RpY28tZGUt/bGEtdmlydWVsYS1z/aW1pY2EtY29uLW51/ZXZhcy1wcnVlYmFz/LWVuLXN1LWxpc3Rh/LWRlLXVzby1lbi1l/bWVyZ2VuY2lhcy0z/NTB4MjUwLmpwZw",
+            "https://imgs.search.brave.com/Q-JWxpSlKMO5YXWaSVm_AySmEsDYVqfiFu7dTCTQl8w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG9saWNpYS5nb3Yu/Y28vc2l0ZXMvZGVm/YXVsdC9maWxlcy9k/aWVudGVzX2xlY2hl/LmpwZw"
+        ],
+        "descripcion": "Este proyecto busca mejorar la salud infantil mediante campañas de vacunación y acceso a servicios médicos. Se han desplegado unidades médicas móviles para llegar a las comunidades más remotas. Además, se han impartido talleres de educación sanitaria, orientados a la prevención de enfermedades comunes y el cuidado básico de la salud. La colaboración con profesionales médicos y voluntarios asegura que las intervenciones sean efectivas y sostenibles, impactando positivamente a miles de familias en regiones vulnerables.",
+        "graficos": {
+            "distribucionRecursos": {
+                "labels": ["Vacunas", "Equipos Médicos", "Personal", "Publicidad"],
+                "data": [60, 20, 15, 5]
+            },
+            "progresoMensual": {
+                "labels": ["Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre"],
+                "data": [10, 25, 40, 55, 70, 85, 100]
+            }
+        }
+    }
+]
+

@@ -5,7 +5,8 @@ import '../Estilos/Sidebar.css';
 const Sidebar = () => {
   return (
     <div className="sidebar">
-      <h2 className="sidebar-title">Dashboard</h2>
+      <h2 className="sidebar-title">Panel de control</h2>
+      <img src="https://i1.sndcdn.com/avatars-000196543139-b4gxqi-t1080x1080.jpg" alt="" />
       <ul className="sidebar-menu">
         <li>
           <Link to="/admin-adolecencia" className="sidebar-link">Gestion de adolecencia</Link>
@@ -19,10 +20,9 @@ const Sidebar = () => {
         <li>
           <Link to="/admin-juventud" className="sidebar-link">Gestion de juventudez</Link>
         </li>
-        <li>
-          <Link to="/settings" className="sidebar-link">Indicadores</Link>
-        </li>
       </ul>
+
+      <a href="/cliente-inicio" className="sidebar-logout">Cerrar sesión</a>
     </div>
   );
 };

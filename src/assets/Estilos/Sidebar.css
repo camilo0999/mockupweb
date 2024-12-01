@@ -1,13 +1,14 @@
+/* General Styles */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Arial', sans-serif;
   width: 100%;
   height: 100%;
 }
 
 .main {
-  margin-left: 240px; 
-  margin-top: 60px; 
+  margin-left: 260px; /* Ajustado al nuevo tamaño del sidebar */
+  margin-top: 60px;
   padding: 20px;
 }
 
@@ -18,44 +19,81 @@ body {
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-
+/* Sidebar Styles */
 .sidebar {
-    width: 240px;
-    height: 100vh;
-    background-color: #2c3e50;
-    color: #ecf0f1;
-    position: fixed;
-    top: 0;
-    left: 0;
-    padding: 20px;
-  }
-  
-  .sidebar-title {
-    font-size: 24px;
-    margin-bottom: 20px;
-    text-align: center;
-  }
-  
-  .sidebar-menu {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .sidebar-menu li {
-    margin: 15px 0;
-  }
-  
-  .sidebar-link {
-    color: #ecf0f1;
-    text-decoration: none;
-    font-size: 18px;
-    display: block;
-    padding: 10px;
-    border-radius: 5px;
-    transition: background 0.3s;
-  }
-  
-  .sidebar-link:hover {
-    background-color: #34495e;
-  }
-  
+  width: 260px; /* Ajustado al nuevo diseño */
+  height: 100vh;
+  background-color: #3366CC; /* Color oscuro moderno */
+  color: #ecf0f1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.sidebar-title {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 25px;
+  text-align: center;
+  color: white;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar-menu li {
+  margin: 15px 0;
+}
+
+.sidebar-link {
+  color: #ecf0f1;
+  text-decoration: none;
+  font-size: 18px;
+  display: flex; /* Para alinear el icono y el texto */
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px; /* Bordes redondeados */
+  transition: all 0.3s ease; /* Transición suave */
+}
+
+.sidebar-link:hover {
+  background-color: white;
+  color: #3366CC;
+  transform: scale(1.05); /* Efecto de escala */
+}
+
+.sidebar-icon {
+  margin-right: 10px; /* Separación entre el icono y el texto */
+  font-size: 20px;
+  color: #f1c40f; /* Color amarillo para los iconos */
+}
+
+.sidebar img {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.sidebar-logout {
+  color: white;
+  background-color: #e74c3c;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.sidebar-logout:hover {
+  background-color: #c0392b;
+}

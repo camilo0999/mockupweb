@@ -1,0 +1,30 @@
+.graficas-container {
+    padding: 20px;
+    text-align: center;
+    width: 90%;
+    max-width: 1200px;
+}
+
+.graficas-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.graficas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.grafica-item {
+    flex: 1 1 45%; /* Ocupa la mitad del contenedor */
+    min-width: 300px; /* Tamaño mínimo */
+    max-width: 500px; /* Tamaño máximo */
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

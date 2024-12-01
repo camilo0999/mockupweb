@@ -6,6 +6,14 @@ import AdminInfancia from './assets/Paginas/AdminInfancia';
 import AdminVegez from './assets/Paginas/AdminVegez';
 import AdminJuventudez from './assets/Paginas/AdminJuventudez';
 import ClienteInicio from './assets/Paginas/ClienteInicio';
+import ClienteProyectosAdolecencia from './assets/Paginas/ClienteProyectosAdolecencia';
+import ClienteProyectosInfancia from './assets/Paginas/ClienteProyectosInfancia';
+import ClienteProyectosVejez from './assets/Paginas/ClienteProyectosVejez';
+import ClienteProyectosJuventud from './assets/Paginas/ClienteProyectosJuventud';
+import VerProyecto from './assets/Paginas/VerProyecto';
+import Login from './assets/Paginas/Login';
+
+
 import './App.css';
 
 const App = () => {
@@ -14,11 +22,18 @@ const App = () => {
     <Router>
       <Routes>
         <Route path="/" element={<Inicio />} />
+        <Route path="/login" element={<Login />} />
         <Route path="/admin-adolecencia" element={<AdminAdolecencia />} />
         <Route path="/admin-infancia" element={<AdminInfancia />} />
         <Route path="/admin-adulto-mayor" element={<AdminVegez />} />
         <Route path="/admin-juventud" element={<AdminJuventudez />} />
         <Route path="/cliente-inicio" element={<ClienteInicio />} />
+        <Route path="/cliente-proyectos-juventud" element={<ClienteProyectosJuventud />} />
+        <Route path="/cliente-proyectos-adolecencia" element={<ClienteProyectosAdolecencia />} />
+        <Route path="/cliente-proyectos-infancia" element={<ClienteProyectosInfancia />} />
+        <Route path="/cliente-proyectos-vejez" element={<ClienteProyectosVejez />} />
+        <Route path="/proyecto/:id" element={<VerProyecto />} />
+        
       </Routes>
     </Router>
 

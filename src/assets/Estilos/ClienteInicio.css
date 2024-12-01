@@ -1,0 +1,151 @@
+/* Estilos generales de la sesión de acceso rápido */
+.sesion-acceso-rapido {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f2f5;
+}
+
+/* Título de la sesión */
+.titulo-sesion {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #343a40;
+    margin-bottom: 20px;
+    letter-spacing: 1.2px;
+}
+
+/* Párrafo de la sesión */
+.parrafo-sesion {
+    text-align: center;
+    color: #6c757d;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+/* Contenedor de acceso rápido */
+.contenedor-acceso-rapido {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 80%;
+}
+
+/* Items de acceso rápido */
+.acceso-rapido-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.acceso-rapido-items:hover {
+    background-color: #e9ecef;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.acceso-rapido-items img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.acceso-rapido-items a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.acceso-rapido-items a:hover {
+    color: #0056b3;
+}
+
+/* Estilos generales */
+.titulo-sesion {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Contenedor de cifras rápidas */
+.sesion-cifras-rapido {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cifras-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Estilo de cada tarjeta */
+.card-acceso {
+    background: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    padding: 20px;
+    width: 280px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-acceso:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Títulos */
+.card-acceso h3 {
+    font-size: 1.5rem;
+    color: #343a40;
+    margin-bottom: 10px;
+}
+
+.card-cifras-content-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Imagen dentro de la tarjeta */
+.card-cifras-content-img img {
+    margin: 10px 0;
+    width: 100px;
+}
+
+/* Texto dentro de la tarjeta */
+.card-cifras-content-text {
+    font-size: 1rem;
+    color: #6c757d;
+    margin: 5px 0;
+}
+
+.card-cifras-content-text span {
+    font-weight: bold;
+    color: #343a40;
+}
